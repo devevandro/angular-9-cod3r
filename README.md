@@ -3,5 +3,5 @@
 - Backend:
 - npm start (PORT: 3001);
 
--Frontend:
+- Frontend:
 - ng serve -o (PORT: 4200);
